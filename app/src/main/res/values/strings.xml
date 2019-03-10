@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Quotify</string>
+    <string name="name_input">Enter Full Name</string>
+    <string name="email_input">Enter Email</string>
+    <string name="password_input">Enter Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
 </resources>
